@@ -1,2 +1,24 @@
-# Portfolio
-Personal portfolio website showcasing my frontend web development projects and ICT technician experience.
+# Hi, I'm Ahada Mohamud Abdi 👋
+
+## Frontend Web Developer & ICT Technician
+
+I build responsive websites and provide ICT support services including CCTV installation, computer maintenance, and networking basics.
+
+## Skills
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- CCTV Installation
+- Computer Troubleshooting
+
+## Contact
+📧 ahadamohamed105@gmail.com
+
+🌐 Portfolio:
+https://ahada90.github.io/Portfolio/
+
+## Featured Projects
+- Aurum Motors Website
+- FGM Awareness & Reporting System
+- CCTV Installation Service Website
