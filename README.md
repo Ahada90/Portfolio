@@ -9,8 +9,11 @@ I build responsive websites and provide ICT support services including CCTV inst
 - CSS3
 - JavaScript
 - Responsive Design
+- OS Installation & Configuration
+- Software Troubleshooting & Technical Support
 - CCTV Installation
-- Computer Troubleshooting
+- Hardware Repair & Assembly
+
 
 ## Contact
 📧 ahadamohamed105@gmail.com
