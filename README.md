@@ -1,6 +1,6 @@
 # Hi, I'm Ahada Mohamud Abdi 👋
 
-## Frontend Web Developer & ICT Technician
+## ICT Technician & Frontend Web Developer
 
 I build responsive websites and provide ICT support services including CCTV installation, computer maintenance, and networking basics.
 
